@@ -41,7 +41,7 @@
 
 .Process_scheduling{
   left: 0%;
-  background-image: linear-gradient(to right ,white,yellow);
+  background-image: linear-gradient(to right ,white,orange);
   height: 100px;
   text-align: center;
   color: black;
@@ -88,7 +88,7 @@ body {
   line-height: 1.5;
   color: #EBEBEB;
   text-align: left;
-  background-image: linear-gradient(to right,purple, white);
+  background-image: linear-gradient(to right,white,white);
 
 
 
@@ -2631,10 +2631,9 @@ fieldset:disabled a.btn {
   border-color: #000000;
   position: relative;
   left: 40%;
-  width: 200px;
-  border-radius: 80%;
-  border-width: 10px;
-  height: 7vw;
+  width: 150px;
+  border-width: 1px;
+  height: 4vw;
 }
 
 .btn-success:hover {
@@ -6232,7 +6231,7 @@ button.bg-warning:focus {
 }
 
 .bg-danger {
-  background-image: linear-gradient(to right , white,green)!important;
+  background-image: linear-gradient(to right , blue,indigo)!important;
 }
 
 a.bg-danger:hover, a.bg-danger:focus,
